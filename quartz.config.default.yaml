@@ -1,26 +1,31 @@
 configuration:
-  pageTitle: "我的个人笔记"
-  baseUrl: "2773920653zbg-netizen.github.io/my-notes"
+  pageTitle: "Quartz 5"
+  baseUrl: ""
   enableSPA: true
   enablePopovers: true
-  locale: "zh-CN"
+  locale: "en-US"
   analytics: null
 
 plugins:
-  - source: "github:quartz-community/content"
+  - source: ./plugins/content
     enabled: true
-  - source: "github:quartz-community/explorer"
+  - source: ./plugins/explorer
     enabled: true
     layout:
       position: left
       priority: 50
-  - source: "github:quartz-community/search"
+  - source: ./plugins/search
     enabled: true
     layout:
       position: header
       priority: 10
-  - source: "github:quartz-community/darkmode"
+  - source: ./plugins/darkmode
     enabled: true
     layout:
       position: header
       priority: 20
+  - source: ./plugins/graph
+    enabled: true
+    layout:
+      position: right
+      priority: 30
