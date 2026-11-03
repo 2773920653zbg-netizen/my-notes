@@ -5,27 +5,3 @@ configuration:
   enablePopovers: true
   locale: "en-US"
   analytics: null
-
-plugins:
-  - source: ./plugins/content
-    enabled: true
-  - source: ./plugins/explorer
-    enabled: true
-    layout:
-      position: left
-      priority: 50
-  - source: ./plugins/search
-    enabled: true
-    layout:
-      position: header
-      priority: 10
-  - source: ./plugins/darkmode
-    enabled: true
-    layout:
-      position: header
-      priority: 20
-  - source: ./plugins/graph
-    enabled: true
-    layout:
-      position: right
-      priority: 30
