@@ -7,21 +7,20 @@ configuration:
   analytics: null
 
 plugins:
-  - source: "github:quartz-community/content"
+  - source: ./plugins/content
     enabled: true
-  - source: "github:quartz-community/explorer"
+  - source: ./plugins/explorer
     enabled: true
     layout:
       position: left
       priority: 50
-  - source: "github:quartz-community/search"
+  - source: ./plugins/search
     enabled: true
     layout:
       position: header
       priority: 10
-  - source: "github:quartz-community/darkmode"
+  - source: ./plugins/darkmode
     enabled: true
     layout:
       position: header
       priority: 20
-
