@@ -1,0 +1,19 @@
+digraph G {
+ graph [rankdir=LR, bgcolor="white", pad="0.25", nodesep="0.35", ranksep="0.55", fontname="Noto Sans CJK SC", labelloc="t", label="VLA：从多模态观测到可执行机器人动作", fontsize=22];
+ node [shape=box, style="rounded,filled", fontname="Noto Sans CJK SC", fontsize=14, color="#607D9A", penwidth=1.5, margin="0.16,0.12"];
+ edge [fontname="Noto Sans CJK SC", fontsize=11, color="#516579", penwidth=1.6, arrowsize=0.8];
+ rgb [label="视觉观测\nRGB / RGB-D 图像", fillcolor="#E9F2FF"];
+ lang [label="语言指令\n任务目标与约束", fillcolor="#F3EFFF"];
+ state [label="机器人状态\n关节 / 末端 / 夹爪", fillcolor="#E8F7F0"];
+ ve [label="视觉编码器\nViT / CNN", fillcolor="#DCEBFF"];
+ te [label="文本编码器\nTokenizer + LM", fillcolor="#EDE4FF"];
+ se [label="状态编码器\nMLP / Embedding", fillcolor="#DDF3E8"];
+ fusion [label="多模态融合\nTransformer / Cross-Attention", fillcolor="#FFF2D9", penwidth=2.0];
+ head [label="动作头\n离散Token / 连续回归\nDiffusion / Flow", fillcolor="#FFE6DF"];
+ chunk [label="动作序列\n未来 H 步动作块", fillcolor="#FFF0E7"];
+ safety [label="动作适配与安全层\n坐标变换 / 限幅 / 碰撞检查", fillcolor="#FDECCB"];
+ robot [label="双臂机器人执行\n左臂 + 右臂 + 夹爪", fillcolor="#DDF3E8", penwidth=2.0];
+ feedback [label="执行后观测\n状态反馈 / 视觉反馈", fillcolor="#E9F2FF"];
+ rgb->ve; lang->te; state->se; ve->fusion; te->fusion; se->fusion; fusion->head; head->chunk; chunk->safety; safety->robot; robot->feedback;
+ feedback->rgb [style=dashed, label="闭环更新", constraint=false];
+}

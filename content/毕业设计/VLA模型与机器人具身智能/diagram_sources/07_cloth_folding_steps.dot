@@ -1,0 +1,13 @@
+digraph G {
+ graph [rankdir=LR, bgcolor="white", pad="0.25", nodesep="0.30", ranksep="0.40", fontname="Noto Sans CJK SC", labelloc="t", label="双臂衣物折叠：分层技能与阶段性反馈", fontsize=22];
+ node [shape=box, style="rounded,filled", fontname="Noto Sans CJK SC", fontsize=13, color="#607D9A", penwidth=1.4, margin="0.16,0.11"];
+ edge [fontname="Noto Sans CJK SC", fontsize=11, color="#516579", penwidth=1.5, arrowsize=0.8];
+ s1 [label="1. 感知与状态估计\n衣物区域、轮廓、角点、褶皱", fillcolor="#E9F2FF"];
+ s2 [label="2. 选择抓取点\n可达性、边缘距离、夹持稳定性", fillcolor="#E6F5EF"];
+ s3 [label="3. 双臂协同抓取\n左右臂时序、夹爪闭合、确认抓住", fillcolor="#F1EAFE"];
+ s4 [label="4. 展开与拉平\n受控张力、避免滑脱和过拉", fillcolor="#FFF0D9"];
+ s5 [label="5. 对齐折叠\n折叠轴、目标区域、末端轨迹", fillcolor="#FFE7E0"];
+ s6 [label="6. 释放与质量检查\n边缘误差、覆盖率、是否完成", fillcolor="#DDF3E8"];
+ s1->s2->s3->s4->s5->s6;
+ s6->s1 [style=dashed, label="失败时重新感知 / 恢复", constraint=false];
+}

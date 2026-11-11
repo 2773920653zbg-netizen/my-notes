@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="684pt" height="326.709469pt" viewBox="0 0 684 326.709469" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T11:31:47.189096</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 326.709469 
+L 684 326.709469 
+L 684 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 45.144 170.597629 
+L 158.976 170.597629 
+Q 165.672 170.597629 165.672 164.942749 
+L 165.672 125.358589 
+Q 165.672 119.703709 158.976 119.703709 
+L 45.144 119.703709 
+Q 38.448 119.703709 38.448 125.358589 
+L 38.448 164.942749 
+Q 38.448 170.597629 45.144 170.597629 
+z
+" clip-path="url(#pc7fa79c0f9)" style="fill: #dceaf5; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 273.924 180.022429 
+L 398.916 180.022429 
+Q 405.612 180.022429 405.612 174.367549 
+L 405.612 115.933789 
+Q 405.612 110.278909 398.916 110.278909 
+L 273.924 110.278909 
+Q 267.228 110.278909 267.228 115.933789 
+L 267.228 174.367549 
+Q 267.228 180.022429 273.924 180.022429 
+z
+" clip-path="url(#pc7fa79c0f9)" style="fill: #f7e9c6; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 519.444 170.597629 
+L 633.276 170.597629 
+Q 639.972 170.597629 639.972 164.942749 
+L 639.972 125.358589 
+Q 639.972 119.703709 633.276 119.703709 
+L 519.444 119.703709 
+Q 512.748 119.703709 512.748 125.358589 
+L 512.748 164.942749 
+Q 512.748 170.597629 519.444 170.597629 
+z
+" clip-path="url(#pc7fa79c0f9)" style="fill: #ddf1ec; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 165.442758 138.082069 
+Q 216.44987 138.082069 265.779931 138.082069 
+" clip-path="url(#pc7fa79c0f9)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 260.179931 135.282069 
+L 265.779931 138.082069 
+L 260.179931 140.882069 
+z
+" clip-path="url(#pc7fa79c0f9)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 405.379182 138.082069 
+Q 459.181183 138.082069 511.306132 138.082069 
+" clip-path="url(#pc7fa79c0f9)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 505.706132 135.282069 
+L 511.306132 138.082069 
+L 505.706132 140.882069 
+z
+" clip-path="url(#pc7fa79c0f9)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 513.073071 164.607176 
+Q 339.210163 219.63971 166.946122 165.113365 
+" clip-path="url(#pc7fa79c0f9)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 171.440092 169.472749 
+L 166.946122 165.113365 
+L 173.130011 164.133819 
+z
+" clip-path="url(#pc7fa79c0f9)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(85.56 141.75545)">控制器</text>
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(80.06 154.781512)">神经网络</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(303.42 141.72795)">外部记忆矩阵</text>
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(302.133516 154.754012)">Memory slots</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(559.86 141.75545)">读写头</text>
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(539.960312 154.781512)">Attention 权重</text>
+   </g>
+   <g id="text_4">
+    <g id="patch_8">
+     <path d="M 181.709297 138.172249 
+L 251.190703 138.172249 
+L 251.190703 121.027249 
+L 181.709297 121.027249 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23415c" x="216.45" y="132.150686" transform="rotate(-0 216.45 132.150686)">写入内容 / 地址</text>
+   </g>
+   <g id="text_5">
+    <g id="patch_9">
+     <path d="M 437.22 138.172249 
+L 481.14 138.172249 
+L 481.14 121.027249 
+L 437.22 121.027249 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23415c" x="459.18" y="132.150686" transform="rotate(-0 459.18 132.150686)">寻址权重</text>
+   </g>
+   <g id="text_6">
+    <g id="patch_10">
+     <path d="M 308.25 164.090449 
+L 370.17 164.090449 
+L 370.17 146.945449 
+L 308.25 146.945449 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23415c" x="339.21" y="158.068886" transform="rotate(-0 339.21 158.068886)">读取向量反馈</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.3px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23415c" x="342" y="258.248269" transform="rotate(-0 342 258.248269)">读写不是硬索引，而是通过内容相关性和地址权重进行可微加权操作。</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10.2px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="342" y="293.591269" transform="rotate(-0 342 293.591269)">Attention 的“软寻址”思想可用于扩展网络的外部存储能力。</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="342" y="20.765469" transform="rotate(-0 342 20.765469)">NTM（神经图灵机）：神经网络与可微外部记忆</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc7fa79c0f9">
+   <rect x="7.2" y="36.765469" width="669.6" height="282.744"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="684pt" height="348.885469pt" viewBox="0 0 684 348.885469" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T11:31:47.042223</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 348.885469 
+L 684 348.885469 
+L 684 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 39.564 158.225269 
+L 119.916 158.225269 
+Q 126.612 158.225269 126.612 152.126869 
+L 126.612 119.602069 
+Q 126.612 113.503669 119.916 113.503669 
+L 39.564 113.503669 
+Q 32.868 113.503669 32.868 119.602069 
+L 32.868 152.126869 
+Q 32.868 158.225269 39.564 158.225269 
+z
+" clip-path="url(#p250942a0e1)" style="fill: #eef1f4; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 167.904 170.930269 
+L 276.156 170.930269 
+Q 282.852 170.930269 282.852 164.831869 
+L 282.852 106.897069 
+Q 282.852 100.798669 276.156 100.798669 
+L 167.904 100.798669 
+Q 161.208 100.798669 161.208 106.897069 
+L 161.208 164.831869 
+Q 161.208 170.930269 167.904 170.930269 
+z
+" clip-path="url(#p250942a0e1)" style="fill: #f7e9c6; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 329.724 170.930269 
+L 443.556 170.930269 
+Q 450.252 170.930269 450.252 164.831869 
+L 450.252 106.897069 
+Q 450.252 100.798669 443.556 100.798669 
+L 329.724 100.798669 
+Q 323.028 100.798669 323.028 106.897069 
+L 323.028 164.831869 
+Q 323.028 170.930269 329.724 170.930269 
+z
+" clip-path="url(#p250942a0e1)" style="fill: #dceaf5; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 497.124 170.930269 
+L 583.056 170.930269 
+Q 589.752 170.930269 589.752 164.831869 
+L 589.752 106.897069 
+Q 589.752 100.798669 583.056 100.798669 
+L 497.124 100.798669 
+Q 490.428 100.798669 490.428 106.897069 
+L 490.428 164.831869 
+Q 490.428 170.930269 497.124 170.930269 
+z
+" clip-path="url(#p250942a0e1)" style="fill: #ddf1ec; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 625.464 158.225269 
+L 661.176 158.225269 
+Q 667.872 158.225269 667.872 152.126869 
+L 667.872 119.602069 
+Q 667.872 113.503669 661.176 113.503669 
+L 625.464 113.503669 
+Q 618.768 113.503669 618.768 119.602069 
+L 618.768 152.126869 
+Q 618.768 158.225269 625.464 158.225269 
+z
+" clip-path="url(#p250942a0e1)" style="fill: #e9e2f4; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 126.37782 135.864469 
+Q 143.906801 135.864469 159.758732 135.864469 
+" clip-path="url(#p250942a0e1)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 154.158732 133.064469 
+L 159.758732 135.864469 
+L 154.158732 138.664469 
+z
+" clip-path="url(#p250942a0e1)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 282.622588 135.864469 
+Q 302.940678 135.864469 321.581718 135.864469 
+" clip-path="url(#p250942a0e1)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 315.981718 133.064469 
+L 321.581718 135.864469 
+L 315.981718 138.664469 
+z
+" clip-path="url(#p250942a0e1)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 450.022588 135.864469 
+Q 470.340678 135.864469 488.981718 135.864469 
+" clip-path="url(#p250942a0e1)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 483.381718 133.064469 
+L 488.981718 135.864469 
+L 483.381718 138.664469 
+z
+" clip-path="url(#p250942a0e1)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 589.518501 135.864469 
+Q 604.25816 135.864469 617.320769 135.864469 
+" clip-path="url(#p250942a0e1)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 611.720769 133.064469 
+L 617.320769 135.864469 
+L 611.720769 138.664469 
+z
+" clip-path="url(#p250942a0e1)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="79.74" y="138.982281" transform="rotate(-0 79.74 138.982281)">输入嵌入</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(200.03 132.46925)">位置编码</text>
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(189.03 145.495312)">加入顺序信息</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(364.64 132.46925)">自注意力</text>
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(350.889141 145.495312)">Self-Attention</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(518.09 132.46925)">前馈网络</text>
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(530.041328 145.495312)">FFN</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="643.32" y="138.982281" transform="rotate(-0 643.32 138.982281)">输出</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10.1px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23415c" x="342" y="240.045469" transform="rotate(-0 342 240.045469)">编码器 / 解码器堆叠；多头注意力并行学习不同关系；残差连接与归一化稳定深层网络。</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10.2px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #9a4b3c" x="342" y="295.947469" transform="rotate(-0 342 295.947469)">注意：本书第 8 章只做应用层面的介绍，不是完整的 Transformer 数学与工程教程。</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="342" y="20.765469" transform="rotate(-0 342 20.765469)">Transformer（本书中的概念性展望）：以 Attention 为核心</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p250942a0e1">
+   <rect x="7.2" y="36.765469" width="669.6" height="304.92"/>
+  </clipPath>
+ </defs>
+</svg>

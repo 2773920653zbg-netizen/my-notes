@@ -1,0 +1,14 @@
+digraph G {
+ graph [rankdir=TB, bgcolor="white", pad="0.25", nodesep="0.45", ranksep="0.48", fontname="Noto Sans CJK SC", labelloc="t", label="机器人动作表示：从单臂 7 维到双臂联合动作", fontsize=22];
+ node [shape=box, style="rounded,filled", fontname="Noto Sans CJK SC", fontsize=14, color="#607D9A", penwidth=1.5, margin="0.20,0.14"];
+ edge [fontname="Noto Sans CJK SC", fontsize=12, color="#516579", penwidth=1.5, arrowsize=0.8];
+ obs [label="当前观测 oₜ\n图像 + 语言 + 机器人状态", fillcolor="#E9F2FF"];
+ single [label="单臂末端动作（示意 7 维）\nΔx, Δy, Δz, Δroll, Δpitch, Δyaw, gripper", fillcolor="#E4F2FF"];
+ left [label="左臂动作 aᴸₜ\n位置 / 姿态 / 夹爪", fillcolor="#E6F5EF"];
+ right [label="右臂动作 aᴿₜ\n位置 / 姿态 / 夹爪", fillcolor="#F1EAFE"];
+ joint [label="双臂联合动作 aₜ=[aᴸₜ, aᴿₜ]\n示意 14 维（不含额外状态）", fillcolor="#FFF0D9", penwidth=2];
+ map [label="动作适配层\n单位、坐标系、尺度、夹爪映射", fillcolor="#FFE7E0"];
+ safe [label="约束检查\n工作空间 / 速度 / 碰撞 / 同步", fillcolor="#F4F5F7"];
+ ctrl [label="机器人控制器\n接收经过验证的目标", fillcolor="#DDF3E8"];
+ obs->single; single->left; single->right; left->joint; right->joint; joint->map->safe->ctrl;
+}

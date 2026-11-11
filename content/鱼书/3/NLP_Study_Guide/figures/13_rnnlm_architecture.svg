@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="684pt" height="321.165469pt" viewBox="0 0 684 321.165469" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T11:31:44.724585</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 321.165469 
+L 684 321.165469 
+L 684 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 39.564 165.663469 
+L 125.496 165.663469 
+Q 132.192 165.663469 132.192 160.119469 
+L 132.192 125.931469 
+Q 132.192 120.387469 125.496 120.387469 
+L 39.564 120.387469 
+Q 32.868 120.387469 32.868 125.931469 
+L 32.868 160.119469 
+Q 32.868 165.663469 39.564 165.663469 
+z
+" clip-path="url(#p4df06b0f29)" style="fill: #eef1f4; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 167.904 165.663469 
+L 259.416 165.663469 
+Q 266.112 165.663469 266.112 160.119469 
+L 266.112 125.931469 
+Q 266.112 120.387469 259.416 120.387469 
+L 167.904 120.387469 
+Q 161.208 120.387469 161.208 125.931469 
+L 161.208 160.119469 
+Q 161.208 165.663469 167.904 165.663469 
+z
+" clip-path="url(#p4df06b0f29)" style="fill: #dceaf5; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 304.614 165.663469 
+L 396.126 165.663469 
+Q 402.822 165.663469 402.822 160.119469 
+L 402.822 125.931469 
+Q 402.822 120.387469 396.126 120.387469 
+L 304.614 120.387469 
+Q 297.918 120.387469 297.918 125.931469 
+L 297.918 160.119469 
+Q 297.918 165.663469 304.614 165.663469 
+z
+" clip-path="url(#p4df06b0f29)" style="fill: #ddf1ec; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 441.324 165.663469 
+L 532.836 165.663469 
+Q 539.532 165.663469 539.532 160.119469 
+L 539.532 125.931469 
+Q 539.532 120.387469 532.836 120.387469 
+L 441.324 120.387469 
+Q 434.628 120.387469 434.628 125.931469 
+L 434.628 160.119469 
+Q 434.628 165.663469 441.324 165.663469 
+z
+" clip-path="url(#p4df06b0f29)" style="fill: #e9e2f4; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 575.244 165.663469 
+L 650.016 165.663469 
+Q 656.712 165.663469 656.712 160.119469 
+L 656.712 125.931469 
+Q 656.712 120.387469 650.016 120.387469 
+L 575.244 120.387469 
+Q 568.548 120.387469 568.548 125.931469 
+L 568.548 160.119469 
+Q 568.548 165.663469 575.244 165.663469 
+z
+" clip-path="url(#p4df06b0f29)" style="fill: #f7e9c6; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 131.958501 143.025469 
+Q 146.69816 143.025469 159.760769 143.025469 
+" clip-path="url(#p4df06b0f29)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 154.160769 140.225469 
+L 159.760769 143.025469 
+L 154.160769 145.825469 
+z
+" clip-path="url(#p4df06b0f29)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 265.876798 143.025469 
+Q 282.011393 143.025469 296.468937 143.025469 
+" clip-path="url(#p4df06b0f29)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 290.868937 140.225469 
+L 296.468937 143.025469 
+L 290.868937 145.825469 
+z
+" clip-path="url(#p4df06b0f29)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 402.586798 143.025469 
+Q 418.721393 143.025469 433.178937 143.025469 
+" clip-path="url(#p4df06b0f29)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 427.578937 140.225469 
+L 433.178937 143.025469 
+L 427.578937 145.825469 
+z
+" clip-path="url(#p4df06b0f29)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 539.298501 143.025469 
+Q 554.03816 143.025469 567.100769 143.025469 
+" clip-path="url(#p4df06b0f29)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 561.500769 140.225469 
+L 567.100769 143.025469 
+L 561.500769 145.825469 
+z
+" clip-path="url(#p4df06b0f29)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="82.53" y="146.143281" transform="rotate(-0 82.53 146.143281)">输入词 ID</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="213.66" y="146.028125" transform="rotate(-0 213.66 146.028125)">Embedding</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="350.37" y="146.143281" transform="rotate(-0 350.37 146.143281)">Time RNN</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="487.08" y="146.143281" transform="rotate(-0 487.08 146.143281)">Time Affine</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9.5px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(594.148789 140.093234)">Softmax</text>
+    <text style="font-size: 9.5px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(591.8725 151.343016)">with Loss</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23415c" x="342" y="219.255469" transform="rotate(-0 342 219.255469)">每个时间步输出对词表的得分；目标序列是输入序列向右错开一位。</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.3px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="342" y="263.145469" transform="rotate(-0 342 263.145469)">训练时：批量序列 → 前向 → 时间反向传播 → 梯度裁剪/更新 → 验证困惑度。</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="342" y="20.765469" transform="rotate(-0 342 20.765469)">RNN 语言模型（RNNLM）的典型层结构</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4df06b0f29">
+   <rect x="7.2" y="36.765469" width="669.6" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>

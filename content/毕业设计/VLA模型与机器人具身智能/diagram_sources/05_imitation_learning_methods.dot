@@ -1,0 +1,13 @@
+digraph G {
+ graph [rankdir=TB, bgcolor="white", pad="0.25", nodesep="0.35", ranksep="0.48", fontname="Noto Sans CJK SC", labelloc="t", label="机器人策略学习方法：从行为克隆到生成式动作策略", fontsize=22];
+ node [shape=box, style="rounded,filled", fontname="Noto Sans CJK SC", fontsize=13, color="#607D9A", penwidth=1.4, margin="0.18,0.12", width=3.8];
+ edge [fontname="Noto Sans CJK SC", fontsize=11, color="#516579", penwidth=1.5, arrowsize=0.8];
+ data [label="示范数据 D={(oₜ,aₜ)}\n观测—动作成对记录", fillcolor="#E9F2FF"];
+ bc [label="行为克隆 BC\n学习单步条件分布 π(aₜ|oₜ)", fillcolor="#E4F2FF"];
+ act [label="ACT / Action Chunking\n一次预测未来 H 步动作序列", fillcolor="#E6F5EF"];
+ dp [label="Diffusion Policy\n从噪声逐步去噪生成动作块", fillcolor="#FFF0D9"];
+ flow [label="Flow Matching / π₀ 类方法\n学习从噪声到动作的连续流", fillcolor="#F1EAFE"];
+ vla [label="VLA策略\n在视觉—语言语义条件下生成动作", fillcolor="#FFE7E0", penwidth=2];
+ deploy [label="部署：滚动时域执行 + 观测反馈\n安全层与机器人控制器", fillcolor="#DDF3E8"];
+ data->bc; data->act; data->dp; data->flow; data->vla; bc->deploy; act->deploy; dp->deploy; flow->deploy; vla->deploy;
+}

@@ -1,0 +1,11 @@
+digraph G {
+ graph [rankdir=TB, bgcolor="white", pad="0.25", nodesep="0.35", ranksep="0.42", fontname="Noto Sans CJK SC", labelloc="t", label="推荐分层控制：VLA不要直接替代实时安全控制器", fontsize=22];
+ node [shape=box, style="rounded,filled", fontname="Noto Sans CJK SC", fontsize=14, color="#607D9A", penwidth=1.5, margin="0.18,0.12", width=5.0];
+ edge [fontname="Noto Sans CJK SC", fontsize=12, color="#516579", penwidth=1.6, arrowsize=0.8];
+ high [label="高层：任务理解与子任务规划\n语言目标 → 展开 / 抓取 / 对齐 / 折叠", fillcolor="#F1EAFE"];
+ policy [label="中层：VLA策略 / 模仿学习策略\n图像与状态 → 末端目标或动作块", fillcolor="#E9F2FF", penwidth=2];
+ coord [label="协同层：双臂任务协调\n左右臂相对关系、同步、抓取状态机", fillcolor="#E6F5EF"];
+ motion [label="规划层：运动学与轨迹规划\nIK、碰撞检查、速度/加速度约束", fillcolor="#FFF0D9"];
+ low [label="底层：机器人实时控制\n关节控制、阻抗/位置控制、急停与保护", fillcolor="#FFE7E0"];
+ high->policy->coord->motion->low;
+}

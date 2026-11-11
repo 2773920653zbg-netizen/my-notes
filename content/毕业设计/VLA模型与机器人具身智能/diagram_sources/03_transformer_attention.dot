@@ -1,0 +1,15 @@
+digraph G {
+ graph [rankdir=LR, bgcolor="white", pad="0.25", nodesep="0.30", ranksep="0.42", fontname="Noto Sans CJK SC", labelloc="t", label="Transformer 自注意力：由 Q、K、V 计算上下文相关特征", fontsize=21];
+ node [shape=box, style="rounded,filled", fontname="Noto Sans CJK SC", fontsize=13, color="#607D9A", penwidth=1.4, margin="0.16,0.10"];
+ edge [fontname="Noto Sans CJK SC", fontsize=11, color="#516579", penwidth=1.5];
+ x [label="输入Token\nX", fillcolor="#E9F2FF"];
+ proj [label="线性映射\nWQ / WK / WV", fillcolor="#F1EAFE"];
+ q [label="Query\nQ=XWQ", fillcolor="#DDEBFF"];
+ k [label="Key\nK=XWK", fillcolor="#E7F5EF"];
+ v [label="Value\nV=XWV", fillcolor="#FFF0D9"];
+ score [label="相似度分数\nQKᵀ / √dₖ", fillcolor="#FFE7E0"];
+ soft [label="Softmax\n注意力权重 A", fillcolor="#F4EAFE"];
+ mix [label="加权求和\nA V", fillcolor="#E4F3EC"];
+ out [label="上下文表示\n供后续层使用", fillcolor="#E9F2FF"];
+ x->proj; proj->q; proj->k; proj->v; q->score; k->score; score->soft->mix; v->mix->out;
+}

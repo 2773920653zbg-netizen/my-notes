@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="684pt" height="322.119063pt" viewBox="0 0 684 322.119063" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T11:31:43.725330</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.119063 
+L 684 322.119063 
+L 684 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 45.144 166.617063 
+L 298.476 166.617063 
+Q 305.172 166.617063 305.172 161.073063 
+L 305.172 110.715063 
+Q 305.172 105.171063 298.476 105.171063 
+L 45.144 105.171063 
+Q 38.448 105.171063 38.448 110.715063 
+L 38.448 161.073063 
+Q 38.448 166.617063 45.144 166.617063 
+z
+" clip-path="url(#p55241548e4)" style="fill: #dceaf5; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 385.524 166.617063 
+L 638.856 166.617063 
+Q 645.552 166.617063 645.552 161.073063 
+L 645.552 110.715063 
+Q 645.552 105.171063 638.856 105.171063 
+L 385.524 105.171063 
+Q 378.828 105.171063 378.828 110.715063 
+L 378.828 161.073063 
+Q 378.828 166.617063 385.524 166.617063 
+z
+" clip-path="url(#p55241548e4)" style="fill: #ddf1ec; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(154.32 125.085063)">CBOW</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(118.4325 139.295313)">上下文词  →  目标词</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(106.12125 153.505563)">“周围词共同预测中心词”</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(483.204375 124.959438)">Skip-gram</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(446.8125 139.420938)">目标词  →  多个上下文词</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(458.50125 153.631188)">“中心词预测周围词”</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; fill: #23415c" transform="translate(134.6 196.817188)">通常训练效率较高</text>
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; fill: #23415c" transform="translate(134.6 208.659063)">适合学习常见模式</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; fill: #23415c" transform="translate(454.4 196.817188)">对上下文各位置分别建模</text>
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; fill: #23415c" transform="translate(464.4 208.659063)">常用于捕捉词语关系</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10.2px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="342" y="277.959063" transform="rotate(-0 342 277.959063)">二者都通过上下文预测任务学习词向量；本书强调 CBOW 的实现，随后解释 Skip-gram。</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="342" y="21.719063" transform="rotate(-0 342 21.719063)">CBOW 与 Skip-gram：预测方向相反</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p55241548e4">
+   <rect x="7.2" y="37.719063" width="669.6" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,14 @@
+digraph G {
+ graph [rankdir=TB, bgcolor="white", pad="0.25", nodesep="0.35", ranksep="0.45", fontname="Noto Sans CJK SC", labelloc="t", label="具身智能的核心：感知—决策—行动—反馈闭环", fontsize=22];
+ node [shape=box, style="rounded,filled", fontname="Noto Sans CJK SC", fontsize=14, color="#607D9A", penwidth=1.5, margin="0.20,0.13", width=3.0];
+ edge [fontname="Noto Sans CJK SC", fontsize=12, color="#516579", penwidth=1.7, arrowsize=0.85];
+ env [label="物理环境\n衣物、桌面、障碍物", fillcolor="#F4F5F7"];
+ sense [label="传感与感知\n相机、深度、关节状态", fillcolor="#E9F2FF"];
+ belief [label="状态估计 / 世界模型\n当前衣物形态、机器人状态、不确定性", fillcolor="#E6F5EF"];
+ policy [label="任务决策 / VLA策略\n理解目标、选择子任务、生成动作", fillcolor="#F1EAFE", penwidth=2];
+ control [label="运动规划与底层控制\n逆运动学、轨迹、速度/力矩、安全约束", fillcolor="#FFF0D9"];
+ act [label="机器人执行\n双臂抓取、拉展、对齐、折叠", fillcolor="#DDF3E8"];
+ env->sense->belief->policy->control->act->env;
+ policy->belief [style=dashed, label="预测 / 目标状态", constraint=false];
+ act->sense [style=dashed, label="执行结果反馈", constraint=false];
+}

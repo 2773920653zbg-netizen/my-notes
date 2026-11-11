@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="684pt" height="333.273469pt" viewBox="0 0 684 333.273469" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T11:31:43.870069</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.273469 
+L 684 333.273469 
+L 684 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 50.724 162.229789 
+L 158.976 162.229789 
+Q 165.672 162.229789 165.672 156.464029 
+L 165.672 120.908509 
+Q 165.672 115.142749 158.976 115.142749 
+L 50.724 115.142749 
+Q 44.028 115.142749 44.028 120.908509 
+L 44.028 156.464029 
+Q 44.028 162.229789 50.724 162.229789 
+z
+" clip-path="url(#p3dd010f915)" style="fill: #f7e9c6; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 234.864 176.644189 
+L 393.336 176.644189 
+Q 400.032 176.644189 400.032 170.878429 
+L 400.032 106.494109 
+Q 400.032 100.728349 393.336 100.728349 
+L 234.864 100.728349 
+Q 228.168 100.728349 228.168 106.494109 
+L 228.168 170.878429 
+Q 228.168 176.644189 234.864 176.644189 
+z
+" clip-path="url(#p3dd010f915)" style="fill: #dceaf5; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 513.864 162.229789 
+L 616.536 162.229789 
+Q 623.232 162.229789 623.232 156.464029 
+L 623.232 120.908509 
+Q 623.232 115.142749 616.536 115.142749 
+L 513.864 115.142749 
+Q 507.168 115.142749 507.168 120.908509 
+L 507.168 156.464029 
+Q 507.168 162.229789 513.864 162.229789 
+z
+" clip-path="url(#p3dd010f915)" style="fill: #ddf1ec; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 165.438501 138.686269 
+Q 196.918104 138.686269 226.720657 138.686269 
+" clip-path="url(#p3dd010f915)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 221.120657 135.886269 
+L 226.720657 138.686269 
+L 221.120657 141.486269 
+z
+" clip-path="url(#p3dd010f915)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 399.799182 138.686269 
+Q 453.601183 138.686269 505.726132 138.686269 
+" clip-path="url(#p3dd010f915)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 500.126132 135.886269 
+L 505.726132 138.686269 
+L 500.126132 141.486269 
+z
+" clip-path="url(#p3dd010f915)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="104.85" y="141.804081" transform="rotate(-0 104.85 141.804081)">词 ID = 3</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(255.237969 135.423394)">Embedding 权重矩阵 W</text>
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(295.471328 148.679769)">(V × D)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(537.682813 135.232269)">第 3 行向量</text>
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(550.966172 148.375894)">(D 维)</text>
+   </g>
+   <g id="text_4">
+    <g id="patch_7">
+     <path d="M 171.179297 138.610129 
+L 222.660703 138.610129 
+L 222.660703 121.465129 
+L 171.179297 121.465129 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23415c" x="196.92" y="132.588566" transform="rotate(-0 196.92 132.588566)">索引 / 查表</text>
+   </g>
+   <g id="text_5">
+    <g id="patch_8">
+     <path d="M 431.64 138.610129 
+L 475.56 138.610129 
+L 475.56 121.465129 
+L 431.64 121.465129 
+z
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 9px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23415c" x="453.6" y="132.588566" transform="rotate(-0 453.6 132.588566)">取对应行</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23415c" x="342" y="241.989469" transform="rotate(-0 342 241.989469)">前向：不必构造超长 one-hot 向量；直接 W[id]。</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.5px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="342" y="282.830269" transform="rotate(-0 342 282.830269)">反向：只更新被访问行的梯度（重复 ID 的梯度需要累加）。</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="342" y="21.785469" transform="rotate(-0 342 21.785469)">Embedding 层：one-hot × 权重矩阵等价于按 ID 查表</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3dd010f915">
+   <rect x="7.2" y="37.785469" width="669.6" height="288.288"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="684pt" height="359.973469pt" viewBox="0 0 684 359.973469" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T11:31:46.409750</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 359.973469 
+L 684 359.973469 
+L 684 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 31.194 144.208189 
+L 133.866 144.208189 
+Q 140.562 144.208189 140.562 137.888029 
+L 140.562 104.180509 
+Q 140.562 97.860349 133.866 97.860349 
+L 31.194 97.860349 
+Q 24.498 97.860349 24.498 104.180509 
+L 24.498 137.888029 
+Q 24.498 144.208189 31.194 144.208189 
+z
+" clip-path="url(#p967f2d7a66)" style="fill: #dceaf5; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 31.194 217.943389 
+L 133.866 217.943389 
+Q 140.562 217.943389 140.562 211.623229 
+L 140.562 177.915709 
+Q 140.562 171.595549 133.866 171.595549 
+L 31.194 171.595549 
+Q 24.498 171.595549 24.498 177.915709 
+L 24.498 211.623229 
+Q 24.498 217.943389 31.194 217.943389 
+z
+" clip-path="url(#p967f2d7a66)" style="fill: #ddf1ec; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 190.224 181.075789 
+L 292.896 181.075789 
+Q 299.592 181.075789 299.592 174.755629 
+L 299.592 130.514509 
+Q 299.592 124.194349 292.896 124.194349 
+L 190.224 124.194349 
+Q 183.528 124.194349 183.528 130.514509 
+L 183.528 174.755629 
+Q 183.528 181.075789 190.224 181.075789 
+z
+" clip-path="url(#p967f2d7a66)" style="fill: #f7e9c6; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 346.464 181.075789 
+L 437.976 181.075789 
+Q 444.672 181.075789 444.672 174.755629 
+L 444.672 130.514509 
+Q 444.672 124.194349 437.976 124.194349 
+L 346.464 124.194349 
+Q 339.768 124.194349 339.768 130.514509 
+L 339.768 174.755629 
+Q 339.768 181.075789 346.464 181.075789 
+z
+" clip-path="url(#p967f2d7a66)" style="fill: #e9e2f4; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 485.964 181.075789 
+L 560.736 181.075789 
+Q 567.432 181.075789 567.432 174.755629 
+L 567.432 130.514509 
+Q 567.432 124.194349 560.736 124.194349 
+L 485.964 124.194349 
+Q 479.268 124.194349 479.268 130.514509 
+L 479.268 174.755629 
+Q 479.268 181.075789 485.964 181.075789 
+z
+" clip-path="url(#p967f2d7a66)" style="fill: #ddf1ec; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 608.724 181.075789 
+L 655.596 181.075789 
+Q 662.292 181.075789 662.292 174.755629 
+L 662.292 130.514509 
+Q 662.292 124.194349 655.596 124.194349 
+L 608.724 124.194349 
+Q 602.028 124.194349 602.028 130.514509 
+L 602.028 174.755629 
+Q 602.028 181.075789 608.724 181.075789 
+z
+" clip-path="url(#p967f2d7a66)" style="fill: #e4f0d9; stroke: #23415c; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 140.191419 121.757714 
+Q 162.042588 130.250231 182.330613 138.135228 
+" clip-path="url(#p967f2d7a66)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 178.125285 133.496779 
+L 182.330613 138.135228 
+L 176.096657 138.716421 
+z
+" clip-path="url(#p967f2d7a66)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 140.035095 193.728099 
+Q 162.04495 180.285799 182.623571 167.717611 
+" clip-path="url(#p967f2d7a66)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 176.38499 168.246856 
+L 182.623571 167.717611 
+L 179.303819 173.026024 
+z
+" clip-path="url(#p967f2d7a66)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 299.362588 152.635069 
+Q 319.680678 152.635069 338.321718 152.635069 
+" clip-path="url(#p967f2d7a66)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 332.721718 149.835069 
+L 338.321718 152.635069 
+L 332.721718 155.435069 
+z
+" clip-path="url(#p967f2d7a66)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 444.43782 152.635069 
+Q 461.966801 152.635069 477.818732 152.635069 
+" clip-path="url(#p967f2d7a66)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 472.218732 149.835069 
+L 477.818732 152.635069 
+L 472.218732 155.435069 
+z
+" clip-path="url(#p967f2d7a66)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 567.19782 152.635069 
+Q 584.726801 152.635069 600.578732 152.635069 
+" clip-path="url(#p967f2d7a66)" style="fill: none; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 594.978732 149.835069 
+L 600.578732 152.635069 
+L 594.978732 155.435069 
+z
+" clip-path="url(#p967f2d7a66)" style="fill: #23415c; stroke: #23415c; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(55.03 117.63905)">编码器状态</text>
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(50.183984 130.665112)">h1, h2, ..., hn</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(49.53 191.37425)">当前解码状态</text>
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(74.042812 204.400312)">h_t</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(214.06 149.23985)">相似度打分</text>
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(206.918594 162.265912)">s_i = h_t · h_i</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(372.766094 149.548506)">Softmax</text>
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(351.515312 161.390381)">a_i = softmax(s_i)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(503.35 149.548506)">加权求和</text>
+    <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(498.589063 161.390381)">c = Σa_ih_i</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(615.66 149.23985)">上下文</text>
+    <text style="font-size: 11px; font-family: 'Noto Sans CJK JP'; fill: #23313f" transform="translate(629.355 162.265912)">c</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.4px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23415c" x="342" y="281.671669" transform="rotate(-0 342 281.671669)">a_i ∈ [0,1]，且 Σi a_i = 1；权重可微，因此能够通过反向传播自动学习对齐。</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10.2px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="342" y="323.806069" transform="rotate(-0 342 323.806069)">Attention 不是真的“离散挑选一个词”，而是对所有位置做可微的软选择。</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Noto Sans CJK JP'; text-anchor: middle; fill: #23313f" x="342" y="20.765469" transform="rotate(-0 342 20.765469)">Attention 的一次计算：相似度 → Softmax → 加权和</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p967f2d7a66">
+   <rect x="7.2" y="36.765469" width="669.6" height="316.008"/>
+  </clipPath>
+ </defs>
+</svg>
